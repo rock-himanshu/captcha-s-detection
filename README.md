@@ -1,4 +1,4 @@
-This project is done under sahil rajput. He is a great leader and best mentor, I ever met.I also like to represent my gratitude for helping me and giving opportunity to work. This project really helped me to learn machine learning deep vision concept.
+This project is done under Mr.Sahil Rajput(senior). He is a great leader and best mentor, I ever met.I also like to represent my gratitude for helping me and giving opportunity to work. This project really helped me to learn machine learning deep vision concept.
 
 This project lead to new way of training a dataset using GAN technique which form a lookalike copy.
 
