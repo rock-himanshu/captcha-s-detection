@@ -1,3 +1,5 @@
+# code by rock-Himanshu 
+# GAN is used to detection and training by pitching two file against each other, hence the solver gets better and accurate.
 from matplotlib import pyplot as plt
 %matplotlib inline
 import imutils
